@@ -3,21 +3,19 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
-
-## About this Site
-
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
 
 
-## Creating Your Own
+## About This Site
+ 
+ Hi, my name is Zoe Stearns. I am human researcher, cognitive scientist, and PhD candidate. I currently investigate the impact of eye movements on visual perception. This webpage exhibits my academic work, blogs covering topics of personal interest, and my goals and aspirations. 
 
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
+## Achievement Highlights
+
+
+[RESEARCH](/research) section. 
+
+
+## Latest Blog Post
+
+Humans visually sampled and experience their environments with eye and head movements. The relationship between motor behavior and perceptual experience is intimately linked. I am interested in the cognitive and perceptual consequences of our motor behavior. 
   

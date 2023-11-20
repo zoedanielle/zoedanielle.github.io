@@ -7,17 +7,18 @@ layout: resume
 
 ## Currently
 
-Current Position Description
+Zoe Stearns is a researcher with 5+ years of laboratory experience working with human subjects and perceptual/cognitive models skilled in data analysis, human psychophysical testing, collecition and intrepreation of eye-tracking signals, and laboratory management.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019 - now`
+__University of Rochester__
+Doctor of Philosophy in Brain and Cognitive Science
+Master of Science in Brain and Cognitive Science
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015-2019`
+__University of Oklahoma__
+Bachelor Of Arts in Mathematics
 
 ## Awards
 

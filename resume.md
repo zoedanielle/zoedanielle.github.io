@@ -15,7 +15,7 @@ Zoe Stearns is a researcher with 5+ years of laboratory experience working with 
 __University of Rochester__ &nbsp;
 Doctor of Philosophy in Brain and Cognitive Science 
 
-__University of Rochester__
+__University of Rochester__ &nbsp;
 Master of Science in Brain and Cognitive Science
 
 `2015-2019`
@@ -25,7 +25,7 @@ Bachelor Of Arts in Mathematics
 ## Awards
 
 `2023`
-Best Graduate Research Talk, University of Rochester
+Best Graduate Research Talk, Graduate Education and Postdoctoral Affairs
  &nbsp;  
 
 `2021 and 2023`
@@ -41,13 +41,11 @@ Provost's Fellowship Award, University of Rochester
  &nbsp;  
 
 `2019`
-Research Traineeship Data-Enabled Science and Engineering Award
- &nbsp;  
+Research Traineeship Data-Enabled Science and Engineering Award, National Science Foundation
 
 `2016-2019`
-Ronald E. McNair Post-baccalaureate Achievement Scholar, Dept. of Education
- &nbsp;  
- 
+Ronald E. McNair Post-baccalaureate Achievement Scholar, Department of Education
+
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->

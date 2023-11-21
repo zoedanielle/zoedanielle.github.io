@@ -2,9 +2,6 @@
 - title: Home
   url: /
 
-- title: Contact
-  url: /contactmeh/
-
 # - title: Presentations
 #   url: /presentations/
 
@@ -16,5 +13,9 @@
 
 - title: Blog Posts
   url: /bloggie/ 
+
+- title: Contact
+  url: /contactmeh/
+
 
 

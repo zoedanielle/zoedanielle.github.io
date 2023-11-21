@@ -3,11 +3,10 @@ title: Resume
 layout: resume
 ---
 
-<b> Use this template to share your accomplishments </b>  
-
 ## Currently
 
-Zoe Stearns is a researcher with 5+ years of laboratory experience working with human subjects and perceptual/cognitive models skilled in data analysis, human psychophysical testing, collection and interpretation of eye movement data, and laboratory management.
+Zoe Stearns is currently pursuing a PhD in Brain and Cognitive Science at the University of Rochester. Her academic training specializes in visual perception where she investigates the role of on eye movements for perceptual and cognitive processing in humans. Throughout her graduate training she has gained expertise in the collection and intrepretation of eye movement data, laboratory management, human psychophysical testing, and data analysis. 
+
 
 ## Education
 
@@ -46,25 +45,15 @@ Research Traineeship Data-Enabled Science and Engineering Award, National Scienc
 `2016-2019`
 Ronald E. McNair Post-baccalaureate Achievement Scholar, Department of Education
 
-## Publications
+## Conference Abstract Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
 
-`1994`
-Article Title, Journal Title
+### Journal Publications
 
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+`in prep`
+Temporal dynamics of peri-microsaccadic perception in the foveola
 
 
 ## Presentations
@@ -73,7 +62,7 @@ Book Title, Journal Title
 Presentation Title, Conference
 
 
-## Employment History
+## Teaching and Volunteer
 
 `Current`
 __Current Job Title__, Current Employer 

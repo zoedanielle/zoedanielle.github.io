@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 
 
-### Hand Waves and Smiles
+### Greetings
 
 Hi, my name is Zoe Stearns. I am human researcher, cognitive scientist, and PhD candidate specializing in oculomotor behavior and visual perception.
 

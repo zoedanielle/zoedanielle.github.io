@@ -63,7 +63,7 @@ __The influence of microsaccades on foveal perception__, Department of Brain and
 ## Leadership
 
 `2020 - 2023`
-__Co-Chair of Diversity and Inclusion Committee__
+__Co-Chair of Diversity and Inclusion Committee__ &nbsp; 
 First diversity and inclusion representative for the graduare students at the departmental level &nbsp;  
 Created the first ever diversity and inclusion committee with faculty, staff, and student members &nbsp;  
 

@@ -53,19 +53,26 @@ Ronald E. McNair Post-baccalaureate Achievement Scholar, Department of Education
 ### Journal Publications
 
 `in prep`
-Temporal dynamics of peri-microsaccadic perception in the foveola
-
+Temporal dynamics of peri-microsaccadic perception in the foveola, Journal of Neuroscience
 
 ## Presentations
+`Fall 2023`
+__Temporal dynamics of peri-microsaccadic modulations in the foveola__, Graduate Research Day
 
-`1994`
-Presentation Title, Conference
+`Spring 2023`
+__The influence of microsaccades on foveal perception__, Department of Brain and Cognitive Science
 
+## Leadership
 
-## Teaching and Volunteer
+`2020 - 2023`
+__Co-Chair of Diversity and Inclusion Committee__
+First diversity and inclusion representative for the graduare students at the departmental level
+Created the first ever diversity and inclusion committee with faculty, staff, and student members
+
+## Teaching 
 
 `Current`
-__Current Job Title__, Current Employer 
+__Teaching Assistant__, Current Employer 
 
 - Task
 - Task

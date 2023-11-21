@@ -12,18 +12,28 @@ Zoe Stearns is a researcher with 5+ years of laboratory experience working with 
 ## Education
 
 `2019 - now`
-__University of Rochester__
-Doctor of Philosophy in Brain and Cognitive Science
+__University of Rochester__ &nbsp;
+Doctor of Philosophy in Brain and Cognitive Science &nbsp;
 Master of Science in Brain and Cognitive Science
 
 `2015-2019`
-__University of Oklahoma__
+__University of Oklahoma__ &nbsp;
 Bachelor Of Arts in Mathematics
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2023`
+Best Graduate Research Talk, University of Rochester
+`2021 and 2023`
+Vision Science Society Conference Travel Grant, Elsevier and National Eye Institute
+`2022`
+Poster Session Honorable Mention, Center for Visual Science
+`2019-2021`
+Provost's Fellowship Award, University of Rochester
+`2019`
+Research Traineeship Data-Enabled Science and Engineering Award
+`2016-2019`
+Ronald E. McNair Post-baccalaureate Achievement Scholar, Dept. of Education
 
 ## Publications
 

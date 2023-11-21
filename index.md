@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 
 
-## About This Site
+### About This Site
 
 Hi, my name is Zoe Stearns. I am human researcher, cognitive scientist, and PhD candidate specializing in oculomotor behavior and visual perception.
 

@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Resume Overview
 layout: resume
 ---
 
@@ -64,8 +64,8 @@ __The influence of microsaccades on foveal perception__, Department of Brain and
 
 `2020 - 2023`
 __Co-Chair of Diversity and Inclusion Committee__
-First diversity and inclusion representative for the graduare students at the departmental level
-Created the first ever diversity and inclusion committee with faculty, staff, and student members
+First diversity and inclusion representative for the graduare students at the departmental level &nbsp;  
+Created the first ever diversity and inclusion committee with faculty, staff, and student members &nbsp;  
 
 ## Teaching 
 `Spring 2023`

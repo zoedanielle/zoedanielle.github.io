@@ -3,7 +3,7 @@
   url: /
 
 - title: Contact
-  url: /contact/
+  url: /contactmeh/
 
 # - title: Presentations
 #   url: /presentations/
@@ -13,3 +13,8 @@
 
 - title: Research
   url: /research/
+
+ - title: Blog Posts
+  url: /bloggie/ 
+
+

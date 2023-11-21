@@ -26,23 +26,28 @@ Bachelor Of Arts in Mathematics
 
 `2023`
 Best Graduate Research Talk, University of Rochester
+ &nbsp;  
 
 `2021 and 2023`
 Vision Science Society Conference Travel Grant, Elsevier and National Eye Institute
+ &nbsp;  
 
 `2022`
 Poster Session Honorable Mention, Center for Visual Science
-
+ &nbsp;  
 
 `2019-2021`
 Provost's Fellowship Award, University of Rochester
+ &nbsp;  
 
 `2019`
 Research Traineeship Data-Enabled Science and Engineering Award
+ &nbsp;  
 
 `2016-2019`
 Ronald E. McNair Post-baccalaureate Achievement Scholar, Dept. of Education
-
+ &nbsp;  
+ 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->

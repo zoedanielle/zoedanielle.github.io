@@ -7,7 +7,7 @@ layout: resume
 
 ## Currently
 
-Zoe Stearns is a researcher with 5+ years of laboratory experience working with human subjects and perceptual/cognitive models skilled in data analysis, human psychophysical testing, collecition and intrepreation of eye-tracking signals, and laboratory management.
+Zoe Stearns is a researcher with 5+ years of laboratory experience working with human subjects and perceptual/cognitive models skilled in data analysis, human psychophysical testing, collection and interpretation of eye movement data, and laboratory management.
 
 ## Education
 

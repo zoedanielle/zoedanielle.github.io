@@ -45,17 +45,15 @@ Research Traineeship Data-Enabled Science and Engineering Award, National Scienc
 `2016-2019`
 Ronald E. McNair Post-baccalaureate Achievement Scholar, Department of Education
 
-## Conference Abstract Publications
-
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-
-### Journal Publications
+## Journal Publications
 
 `in prep`
 Temporal dynamics of peri-microsaccadic perception in the foveola, Journal of Neuroscience
 
-## Presentations
+## Conference Abstracts
+
 `Fall 2023`
 __Temporal dynamics of peri-microsaccadic modulations in the foveola__, Graduate Research Day
 
@@ -70,18 +68,11 @@ First diversity and inclusion representative for the graduare students at the de
 Created the first ever diversity and inclusion committee with faculty, staff, and student members
 
 ## Teaching 
+`Spring 2023`
+__Teaching Assistant__, BCS111: Foundations in Cognitive Science
 
-`Current`
-__Teaching Assistant__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+`Spring 2021 & 2022`
+__Teaching Assistant__, BCS208: Lab in Perception and Cognition
 
 
 

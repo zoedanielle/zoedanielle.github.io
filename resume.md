@@ -65,7 +65,7 @@ __Temporal dynamics of peri-microsaccadic perceptual modulations in the foveola_
 
 ## Talks & Presentations
 `Fall 2023`
-__Temporal dynamics of peri-microsaccadic modulations in the foveola__, Graduate Research Day
+__Temporal dynamics of peri-microsaccadic modulations in the foveola__, Arts Science & Engineering Graduate Research Day
 
 `Spring 2023`
 __The influence of microsaccades on foveal perception__, Department of Brain and Cognitive Science

@@ -63,7 +63,7 @@ __Temporal dynamics of peri-microsaccadic and peri-saccadic perceptual modulatio
 `Spring 2021`
 __Temporal dynamics of peri-microsaccadic perceptual modulations in the foveola__, Vision Science Society (VSS)
 
-## Presentations
+## Talks & Presentations
 `Fall 2023`
 __Temporal dynamics of peri-microsaccadic modulations in the foveola__, Graduate Research Day
 

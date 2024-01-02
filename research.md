@@ -5,6 +5,8 @@ title: Research
 
 Show the eye-tracker, experiments, VSS, poster sessions...
 
+vss2023_crowdposter.jpg
+
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
   but you might want to use it to showcase and describe your `Research`,

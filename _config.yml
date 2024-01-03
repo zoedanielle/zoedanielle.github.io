@@ -51,6 +51,9 @@ creative-commons:
   cc-by: #yes
   cc-by-nc: #yes
 
+include:
+  - "images"
+
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 

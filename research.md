@@ -5,8 +5,8 @@ title: Research
 
 Show the eye-tracker, experiments, VSS, poster sessions...
 
-- ![Vision Science Society Conference 2023]({{"/images/vista2023.JPG"| absolute_url}})
-- ![Vision Science Society Conference 2023](/images/vista2023.JPG)
+- ![Vision Science Society Conference 2023 jpg]({{"/images/vista2023.JPG"| absolute_url}})
+- ![Vision Science Society Conference 2023 jpg](/images/vista2023.JPG)
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,

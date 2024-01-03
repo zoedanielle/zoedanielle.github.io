@@ -13,7 +13,7 @@ Let's embark on this journey together!
 
 ## PhD Research
 
-Explore the RESUME section to discover notable accomplishments from my doctoral studies at the University of Rochester.
+Explore the [RESUME](/resume.md) section to discover notable accomplishments from my doctoral studies at the University of Rochester.
 Get to know my lab, our research, and our eye-tracking tools! [Graduate Research](/research) section.
 
 ## Personal Touch

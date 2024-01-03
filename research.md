@@ -5,11 +5,9 @@ title: Research
 
 Show the eye-tracker, experiments, VSS, poster sessions...
 
-<ul>
-<li  markdown="1">
-![Vision Science Society Conference 2023](assets/images/vss2023_postercrowd.heic){:class="img-responsive"}
-</li>
-</ul>
+![Logo Jekyll](assets/images/vss2023_postercrowd.heic)
+
+
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
@@ -18,6 +16,9 @@ We're currently using this section of the site to host these tutorials,
   write about various news or updates that have happened to you.
   ![Vision Science Society Conference 2023](assets/images/vss2023_postercrowd.heic){:class="img-responsive"}
   ![Vision Science Society Conference 2023]({{zoedanielle.github.io}}/assets/images/vss2023_postercrowd.heic)
+  <li  markdown="1">
+![Vision Science Society Conference 2023](assets/images/vss2023_postercrowd.heic){:class="img-responsive"}
+
 
 
 

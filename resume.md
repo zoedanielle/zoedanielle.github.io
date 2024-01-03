@@ -5,8 +5,11 @@ layout: resume
 
 ## Currently
 
-Zoe Stearns is currently pursuing a PhD in Brain and Cognitive Science at the University of Rochester. She investigates the impact of eye movement behavior on perceptual experience, neural encoding, and cognition as a graduate research trainee in the Active Perception Lab. For the past 5+ years she has gained expertise in high-precision eye-tracking technology and gaze-contingent software to reliably localize the center of gaze. My line of research sheds light on the oculomotor and attentional contributions to the perception of fine spatial details within the central foveal visual field. Investigating the mechanisms underlying visual perception, specifically the tight coupling between motor control, attention, and foveal sensitivity, offers great insights into understanding how sensorimotor actions ground and shape perceptual experience in real-time. 
+Zoe Stearns is currently pursuing a PhD in Brain and Cognitive Science at the University of Rochester. As a graduate research trainee in the Active Perception Lab, she explores how eye movement behavior affects perceptual experience, neural encoding, and cognition.
 
+Over the past 5+ years, Zoe has specialized in advanced in-lab technologies, focusing on high-precision eye-tracking technology and custom gaze-contingent software. These tools enable her to accurately pinpoint the center of gaze for human observers. The technical resources at the Active Perception Lab have empowered her to investigate the complex interplay between oculomotor movements, attention, and the perception of fine spatial details within the central fovea.
+
+Zoe's PhD research illuminates the pivotal role of oculomotor and attentional factors in shaping our perception. By unraveling the mechanisms governing visual perception, especially the close interplay between motor control, attention, and foveal sensitivity, her graduate work offers profound insights into how our sensorimotor behavior actively influences and molds our real-time perceptual experience. She sheds light on the intricate relationship between our eyes, brain, and environment, providing evidence for the dynamic spatiotemporal nature of vision that underlies our everyday perception of the world.
 
 ## Education
 

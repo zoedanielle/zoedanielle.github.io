@@ -5,7 +5,11 @@ layout: resume
 
 ## Currently
 
-Zoe Stearns is currently pursuing a PhD in Brain and Cognitive Science at the University of Rochester. Her academic training specializes in human visual perception where she investigates the impact of eye movement behavior on perceptual experience, neural encoding, and cognition. Throughout her graduate training she has gained expertise in the collection and intrepretation of eye movement data, laboratory management, human psychophysical testing, and data analysis. Investigating the mechanisms underlying visual perception, specifically the tight coupling between motor control, attention, and visual sensitivity, offers great insights into understanding how sensorimotor actions ground and shape perceptual experience in real-time.
+Zoe Stearns is currently pursuing a PhD in Brain and Cognitive Science at the University of Rochester. As a researcher in the Active Perception labs 
+
+ in human visual perception where 
+ 
+ She investigates the impact of eye movement behavior on perceptual experience, neural encoding, and cognition as a graduate research trainee in the Active Perception Lab. She investigates Throughout her graduate training she has gained expertise in the collection and intrepretation of fixational eye movement data, laboratory management, human psychophysical testing, and data analysis. Investigating the mechanisms underlying visual perception, specifically the tight coupling between motor control, attention, and sensitivity across the visual field, offers great insights into understanding how sensorimotor actions ground and shape perceptual experience in real-time. 
 
 
 ## Education

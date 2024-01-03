@@ -5,7 +5,7 @@ title: Research
 
 Show the eye-tracker, experiments, VSS, poster sessions...
 
-vss2023_crowdposter.jpg
+![image-title-here](images/vss2023_postercrowd.heic){:class="img-responsive"}
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,

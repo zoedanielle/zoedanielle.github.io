@@ -5,8 +5,10 @@ title: Research
 
 Show the eye-tracker, experiments, VSS, poster sessions...
 
-- ![Vision Science Society Conference 2023 jpg]({{"/images/vista2023.JPG"| absolute_url}})
-- ![Vision Science Society Conference 2023 jpg](/images/vista2023.JPG)
+- ![Active Perception Lab](/images/vss2022_lab.jpg)
+- ![Digital dual-purkinjie image eye tracking apparatus](/images/labelled_ddpi.png)
+- ![Vista Vision Research Conference 2023](/images/vista2023.JPG)
+- ![Vision Science Society Conference 2023](/images/vss2022_2.heic)
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,

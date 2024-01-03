@@ -3,12 +3,14 @@ layout: post-index
 title: Research
 ---
 
-- ![Active Perception Lab](/images/vss2022_lab.jpg)
 - ![Digital dual-purkinjie image eye tracking apparatus](/images/labelled_ddpi.png)
 - ![Vista Vision Research Conference 2023](/images/vista2023.JPG)
 - ![Vision Science Society Conference 2023](/images/vss2022_2.heic)
 <div style="text-align: center;">
-  <img src="/images/vista2023_selfie.jpg" alt="Alt text" style="width: 50%; height: auto; margin: 0 auto;">
+  <img src="/images/vista2023_selfie.jpg" alt="Vista 2023" style="width: 50%; height: auto; margin: 0 auto;">
+</div>
+<div style="text-align: center;">
+  <img src="/images/vss2022_lab.jpg" alt="Active Perception Lab" style="width: 20%; height: auto; margin: 0 auto;">
 </div>
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
